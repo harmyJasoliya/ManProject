@@ -1,0 +1,201 @@
+*{
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    
+  }
+  
+  .loginBox{
+    border: 5px solid #1976d2;
+    border-radius: 50px;
+    padding: 20px 0px ; 
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: column;
+    /* color:#7e7d7d */
+   
+  }
+  
+   Button{
+  background-color: #1976d2;
+     outline: 0;
+      border: 0;
+      margin: 0; 
+   
+    font-weight: 500;
+    font-size: 0.975rem;
+    line-height: 0.5;
+    letter-spacing: 0.02857em;
+    color: white;
+    min-width: 64px;
+    
+    border-radius: 4px;
+   margin: auto;
+  }
+  
+   Button:hover{
+    background-color: #1565c0;
+    box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+    
+  }
+  .loginBox h1{
+    margin: 0;
+      font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+      font-weight: 400;
+      font-size: 2.125rem;
+      line-height: 1.235;
+      letter-spacing: 0.00785em;
+      
+      color: #1976d2;
+      margin-bottom: 20px;
+      font-weight: 700;
+  }
+ 
+  .portle{
+    background-color:#1976d2;
+    color:white;
+   
+  }
+  .sidebar{
+    display: flex;
+    flex-direction: column;
+    color: rgb(13, 13, 13);
+  }
+  
+  .css-12dtwfd-MuiListItemIcon-root {
+    min-width: 30px!important;
+  }
+
+  .css-10hburv-MuiTypography-root {
+    color: black;
+    font-size: 0.96erm!important;
+    text-transform: capitalize;
+  }
+
+  .css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
+    padding-top: 1px!important;
+    padding-bottom: 1px!important;
+  }
+  .Data{
+    margin-left: 100px;
+  }
+  .Dashboard .w-33{
+    width: 33%;
+    margin: auto;
+    border:4;
+
+    text-align: center;
+    border-color:rgb(59, 59, 59);
+    box-shadow:inherit ; 
+    
+  }
+  .Dashboard .w-33 h1{
+    padding:'20px 0px 20px 0px';
+    font-size: 50px;
+  }
+  .d-flex{
+    display: flex;
+    
+  }
+  .w-60{
+    width: 60%;
+  }
+  .w-40{
+    width: 40%;
+  }
+  .addbtn Button{
+    width: 99px;
+    height: 50px;
+    padding: 50px;
+  }
+   Button{
+    border: none;
+    background-color:#1976d2 ;
+    color: white;
+    border-radius: 5px;
+    padding: 14px;
+    margin-left: 10px; 
+  }
+  .qa button{
+  display: flex;
+  
+  }
+  .table tr th{
+    /* width: 100%; */
+    background-color: #1976d2;
+    color: white;
+    
+    padding: 10px 30px;
+    text-align: left;
+  }
+  .table table{
+    margin-top: 30px;
+    width: 100%;
+    
+  }
+  .table tr td{
+    text-align: left;
+    padding: 10px 30px;
+    
+    
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /*      */
+
+
+  *{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+  }
+  .section{
+    width: 100%;
+    min-height: 400px;
+    position: relative;
+    padding: 80px 0px 0px 0;
+    text-align: center;
+    align-items: center;
+    background: url(https://bootstrapmade.com/demo/templates/FlexStart/assets/img/hero-bg.png) top center no-repeat;
+    background-size: cover;
+  }
+  .section1{
+     padding:100px 0 ;
+  }
+  .card{
+    background-color: #ffffff;
+    color: #444444;
+    box-shadow: 0px 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+    text-align: center;
+    height: 100%;
+  }
+  .dashboard{
+    background-color: rgb(245, 245, 247);
+    margin-top: 100px;
+  }
+  .section2{
+    padding: 0px 0 100px 0;
+    /* background-color: #4154f1; */
+  }
+  .de{
+    color:#1976d2;
+  }
